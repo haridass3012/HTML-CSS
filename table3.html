@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>table 3</title>
+	<style>
+		table,tr,th,td{
+			border:2px solid black;
+			border-collapse:collapse;
+			height:70px;
+			width:600px;
+			text-align:center;
+			background-color: blue;
+		}
+		#a{
+			background-color: green;
+		}
+		#b{
+			background-color: yellow;
+		}
+		#c{
+			background-color:salmon;
+		}
+		#d{
+			background-color: blueviolet;
+		}
+	</style>
+</head>
+<body>
+	<table>
+		<tr>
+			<th rowspan=2>No</th>
+			<th colspan=2>problem</th>
+			<th>for</th>
+			<th>a web</th>
+		</tr>	
+		<tr>
+			<td colspan=2; id="a">professional</td>
+			<td colspan=2; rowspan=3; id="a">as</td>
+		</tr>
+
+		<tr>
+			<td colspan=3; id="b">you</td>
+		</tr>
+		<tr>
+			<td colspan=2; id="c">will</td>
+			<td rowspan=2; id="c">see</td>
+		</tr>
+		<tr>
+			<td colspan=2; id="d">in</td>
+			<td id="d">a few</td>
+			<td id="d">minutes!</td>
+		</tr>
+	
+	</table>
+</body>
+</html>

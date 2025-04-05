@@ -1,0 +1,861 @@
+.a{
+    border:1px solid none;
+    ;
+    height:2000px;
+}
+#b{
+    border:1px solid  rgb(245, 16, 9);
+    height:220px;
+    border-radius:30px;
+    text-align: center;
+    padding-top: 120px;
+    color:white;
+    font-size: 30px;
+    font-family: Bahnschrift;
+    background-color: rgb(245, 16, 9);
+}
+#c{
+    border:1px solid  rgb(9, 103, 245);
+    height:320px;
+    border-radius:30px;
+    padding-top: 0px;
+    color:white;
+    margin-top: 20px;
+    font-size: 30px;
+    font-family: Bahnschrift;
+    background-color: rgb(9, 103, 245);
+}
+#c1{
+    border:1px solid none;
+    width:500px;
+    height:320px;
+    text-align: center;
+    float: left;
+}
+#ca{
+    margin-top: 100px;
+}
+#c2{
+    border:1px solid none;
+    width:820px;
+    font-size: 18px;
+    height:300px;
+    padding-top: 20px;
+    float: left;
+}
+#f{
+    border:1px solid none;
+    height:30px;
+    margin-top:10px;
+}
+
+#d{
+    border:1px solid none;
+    height:600px;
+}
+#da img{
+    border:1px solid none;
+    height: 180px;
+    width:310px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+}
+#db img{
+    border:1px solid none;
+    height: 180px;
+    width:310px;
+    margin-top: 10px;
+    border-radius: 20px;
+    margin-left: 18px;
+    float: left;
+}
+#e{
+    border:1px solid rgb(9, 103, 245);
+    height:250px;
+    background-color: rgb(9, 103, 245);
+    border-radius: 20px;
+}
+#ea{
+    border:1px solid none;
+    height: 249px;
+    width:430px;
+    float:left;
+}
+#eaa{
+    border: 1px solid rgb(9, 103, 245);
+    border-bottom: 1px solid white;
+    margin-top:10px;
+    margin-left:20px;
+    color: aliceblue;
+    height: 30px;
+    width: 380px;
+    background-color: rgb(9, 103, 245);
+}
+#eac{
+    border: 1px solid rgb(9, 103, 245);
+    border-bottom: 1px solid white;
+    background-color: rgb(9, 103, 245);
+    color: aliceblue;
+    height: 70px;
+    width:380px;
+    margin-top:5px;
+    margin-left:20px;
+}
+#ead{
+    border: 1px solid rgb(9, 103, 245);
+    color: aliceblue;
+    text-align: right;
+    margin-top:5px;
+    margin-left:20px;
+    height: 30px;
+    width: 380px;
+    background-color: rgb(9, 103, 245);
+}
+#eb{
+    border:1px solid none;
+    height: 249px;
+    width:500px;
+    text-align: center;
+    font-family:Bahnschrift ;
+    float:left;
+}
+#eba{
+    border: 1px solid none;
+    font-size: 16px;
+    height: 100px;
+    color: aliceblue;
+    margin-top: 40px;
+}
+#ebb{
+    font-size: 20px;
+    color: aliceblue;
+    margin-top: 10px;
+}
+#ebd{
+    font-size: 20px;
+    color: aliceblue;
+    margin-top: 10px;
+}
+#ec{
+    border:1px solid none;
+    height: 249px;
+    width:360px;
+    float:left;
+}
+#ec{
+    text-align: center;
+    color: aliceblue;
+    font-size: 20px;
+    font-family:Bahnschrift ;
+}
+#eca{
+    margin-top: 100px;
+}
+#z{
+    text-align: center;
+    margin-top: 10px;
+}
+@media screen and (min-width:365px) and (max-width:424px)
+{
+    .a{
+        border:1px solid none;
+        height:2000px;
+    }
+    #b{
+        border:1px solid  rgb(255, 95, 3);
+        height:100px;
+        width:220px;
+        border-radius:20px;
+        text-align: center;
+        padding-top: 50px;
+        color:white;
+        font-size: 13px;
+        font-family: Bahnschrift;
+        background-color: rgb(255, 95, 3);
+    }
+    #c{
+        border:1px solid  rgb(9, 103, 245);
+        height:150px;
+        width:220px;
+        border-radius:20px;
+        padding-top: 0px;
+        color:white;
+        margin-top: 20px;
+        font-size: 12px;
+        font-family: Bahnschrift;
+        background-color: rgb(9, 103, 245);
+    }
+    #c1{
+        border:1px solid none;
+        width:90px;
+        height:100px;
+        text-align: center;
+        float: left;
+    }
+    #ca{
+        margin-top: 50px;
+    }
+    #c2{
+        border:1px solid none;
+        width:110px;
+        font-size: 5px;
+        height:100px;
+        padding-top: 5px;
+        float: left;
+    }
+    #f{
+        border:1px solid none;
+        height:18px;
+        width:220px;
+        font-size: 9px;
+        margin-top:5px;
+    }
+    #fa{
+        float: left;
+        margin-left: 80px;
+    }
+    #fb{
+        float: left;
+        margin-left: 5px;
+    }
+    #d{
+        border:1px solid none;
+        height:600px;
+        width: 220px;
+    }
+    #da img{
+        border:1px solid none;
+        height: 80px;
+        width:100px;
+        border-radius: 10px;
+        margin-left: 7px;
+        margin-top: 5px;
+        float: left;
+    }
+    #db img{
+        border:1px solid none;
+        height: 80px;
+        width:100px;
+        margin-top: 5px;
+        border-radius: 10px;
+        margin-left: 7px;
+        float: left;
+    }
+    #e{
+        border:1px solid rgb(9, 103, 245);
+        height:500px;
+        width:220px;
+        background-color: rgb(9, 103, 245);
+        border-radius: 20px;
+    }
+    #ea{
+        border:1px solid none;
+        height: 200px;
+        width:220px;
+        margin-left: 20px;
+    }
+    #eaa{
+        border: 1px solid rgb(9, 103, 245);
+        border-bottom: 1px solid white;
+        margin-top:10px;
+        margin-left:  10px;
+        color: aliceblue;
+        height: 19px;
+        width: 150px;
+        background-color: rgb(9, 103, 245);
+    }
+    #eac{
+        border: 1px solid rgb(9, 103, 245);
+        border-bottom: 1px solid white;
+        background-color: rgb(9, 103, 245);
+        color: aliceblue;
+        height: 30px;
+        width:150px;
+        margin-top:5px;
+        margin-left:10px;
+    }
+    #ead{
+        border: 1px solid rgb(9, 103, 245);
+        color: aliceblue;
+        text-align: right;
+        margin-top:5px;
+        margin-left:5px;
+        height: 20px;
+        width: 170px;
+        background-color: rgb(9, 103, 245);
+    }
+    #eb{
+        border:1px solid none;
+        height: 200px;
+        width:220px;
+        margin-left:0px;
+        text-align: center;
+        font-family:Bahnschrift ;
+    }
+    #eba{
+        border: 1px solid none;
+        font-size: 12px;
+        height: 100px;
+        color: aliceblue;
+        margin-top: 20px;
+    }
+    #ebb{
+        font-size: 20px;
+        color: aliceblue;
+        margin-top: 10px;
+    }
+    #ebd{
+        font-size: 20px;
+        color: aliceblue;
+        margin-top: 10px;
+    }
+    #ec{
+        border:1px solid none;
+        height: 70px;
+        width:220px;
+    }
+    #ec{
+        text-align: center;
+        color: rgb(224, 224, 224);
+        font-size: 20px;
+        font-family:Bahnschrift ;
+    }
+    #eca{
+        margin-top: 10px;
+    }
+    #z{
+        font-size: 10px;
+        margin-left :-140px;
+        margin-top: 5px;
+    }
+}
+@media screen and (max-width:290px)
+{
+    .a{
+        border:1px solid none;
+        height:1500px;
+    }
+    #b{
+        border:1px solid  rgb(255, 95, 3);
+        height:100px;
+        width:260px;
+        border-radius:20px;
+        text-align: center;
+        padding-top: 50px;
+        color:white;
+        font-size: 13px;
+        font-family: Bahnschrift;
+        background-color: rgb(255, 95, 3);
+    }
+    #c{
+        border:1px solid  rgb(9, 103, 245);
+        height:150px;
+        width:260px;
+        border-radius:20px;
+        padding-top: 0px;
+        color:white;
+        margin-top: 20px;
+        font-size: 12px;
+        font-family: Bahnschrift;
+        background-color: rgb(9, 103, 245);
+    }
+    #c1{
+        border:1px solid none;
+        width:90px;
+        height:100px;
+        text-align: center;
+        float: left;
+    }
+    #ca{
+        margin-top: 50px;
+    }
+    #c2{
+        border:1px solid none;
+        width:110px;
+        font-size: 5px;
+        height:100px;
+        padding-top: 5px;
+        float: left;
+    }
+    #f{
+        border:1px solid none;
+        height:18px;
+        width:270px;
+        font-size: 9px;
+        margin-top:5px;
+    }
+    #fa{
+        float: left;
+        margin-left: 120px;
+    }
+    #fb{
+        float: left;
+        margin-left: 5px;
+    }
+    #d{
+        border:1px solid none;
+        height:560px;
+        width: 260px;
+    }
+    #da img{
+        border:1px solid none;
+        height: 80px;
+        width:120px;
+        border-radius: 10px;
+        margin-left: 7px;
+        margin-top: 5px;
+        float: left;
+    }
+    #db img{
+        border:1px solid none;
+        height: 80px;
+        width:120px;
+        margin-top: 5px;
+        border-radius: 10px;
+        margin-left: 7px;
+        float: left;
+    }
+    #e{
+        border:1px solid rgb(9, 103, 245);
+        height:500px;
+        width:260px;
+        background-color: rgb(9, 103, 245);
+        border-radius: 20px;
+    }
+    #ea{
+        border:1px solid none;
+        height: 200px;
+        width:250px;
+        margin-left: 20px;
+    }
+    #eaa{
+        border: 1px solid rgb(9, 103, 245);
+        border-bottom: 1px solid white;
+        margin-top:10px;
+        margin-left:  10px;
+        color: aliceblue;
+        height: 19px;
+        width: 190px;
+        background-color: rgb(9, 103, 245);
+    }
+    #eac{
+        border: 1px solid rgb(9, 103, 245);
+        border-bottom: 1px solid white;
+        background-color: rgb(9, 103, 245);
+        color: aliceblue;
+        height: 30px;
+        width:190px;
+        margin-top:5px;
+        margin-left:10px;
+    }
+    #ead{
+        border: 1px solid rgb(9, 103, 245);
+        color: aliceblue;
+        text-align: right;
+        margin-top:5px;
+        margin-left:5px;
+        height: 20px;
+        width: 190px;
+        background-color: rgb(9, 103, 245);
+    }
+    #eb{
+        border:1px solid none;
+        height: 200px;
+        width:250px;
+        margin-left:0px;
+        text-align: center;
+        font-family:Bahnschrift ;
+    }
+    #eba{
+        border: 1px solid none;
+        font-size: 12px;
+        height: 100px;
+        color: aliceblue;
+        margin-top: 20px;
+    }
+    #ebb{
+        font-size: 20px;
+        color: aliceblue;
+        margin-top: 10px;
+    }
+    #ebd{
+        font-size: 20px;
+        color: aliceblue;
+        margin-top: 10px;
+    }
+    #ec{
+        border:1px solid none;
+        height: 70px;
+        width:250px;
+    }
+    #ec{
+        text-align: center;
+        color: rgb(224, 224, 224);
+        font-size: 20px;
+        font-family:Bahnschrift ;
+    }
+    #eca{
+        margin-top: 10px;
+    }
+    #z{
+        font-size: 10px;
+        margin-left :-10px;
+        margin-top: 5px;
+    }
+}
+@media screen and (min-width:758px) and (max-width:830px)
+{
+    .a{
+        border:1px solid none;
+        height:1500px;
+    }
+    #b{
+        border:1px solid  rgb(255, 95, 3);
+        height:220px;
+        width:740px;
+        border-radius:20px;
+        text-align: center;
+        padding-top: 130px;
+        color:white;
+        font-size: 20px;
+        font-family: Bahnschrift;
+        background-color: rgb(255, 95, 3);
+    }
+    #c{
+        border:1px solid  rgb(9, 103, 245);
+        height:300px;
+        width:740px;
+        border-radius:20px;
+        padding-top: 0px;
+        color:white;
+        margin-top: 20px;
+        font-size: 24px;
+        font-family: Bahnschrift;
+        background-color: rgb(9, 103, 245);
+    }
+    #c1{
+        border:1px solid none;
+        width:290px;
+        height:300px;
+        text-align: center;
+        float: left;
+    }
+    #ca{
+        margin-top: 100px;
+    }
+    #c2{
+        border:1px solid none;
+        width:370px;
+        font-size: 12.3px;
+        height:290px;
+        padding-top: 5px;
+        float: left;
+    }
+    #f{
+        border:1px solid none;
+        height:18px;
+        width:740px;
+        font-size: 12px;
+        margin-top:5px;
+    }
+    #fa{
+        float: left;
+        margin-left: 500px;
+    }
+    #fb{
+        float: left;
+        margin-left: 10px;
+    }
+    #d{
+        border:1px solid none;
+        height:400px;
+        width: 740px;
+    }
+    #da img{
+        border:1px solid none;
+        height: 110px;
+        width:170px;
+        border-radius: 10px;
+        margin-left: 13px;
+        margin-top: 5px;
+        float: left;
+    }
+    #db img{
+        border:1px solid none;
+        height: 110px;
+        width:170px;
+        margin-top: 5px;
+        border-radius: 10px;
+        margin-left: 13px;
+        float: left;
+    }
+    #e{
+        border:1px solid rgb(9, 103, 245);
+        height:250px;
+        width:740px;
+        background-color: rgb(9, 103, 245);
+        border-radius: 20px;
+    }
+    #ea{
+        border:1px solid none;
+        height: 200px;
+        width:240px;
+        float: left;
+        margin-left: 20px;
+    }
+    #eaa{
+        border: 1px solid rgb(9, 103, 245);
+        border-bottom: 1px solid white;
+        margin-top:10px;
+        margin-left:  10px;
+        color: aliceblue;
+        height: 19px;
+        width: 190px;
+        background-color: rgb(9, 103, 245);
+    }
+    #eac{
+        border: 1px solid rgb(9, 103, 245);
+        border-bottom: 1px solid white;
+        background-color: rgb(9, 103, 245);
+        color: aliceblue;
+        height: 30px;
+        width:190px;
+        margin-top:5px;
+        margin-left:10px;
+    }
+    #ead{
+        border: 1px solid rgb(9, 103, 245);
+        color: aliceblue;
+        text-align: right;
+        margin-top:5px;
+        margin-left:5px;
+        height: 20px;
+        width: 190px;
+        background-color: rgb(9, 103, 245);
+    }
+    #eb{
+        border:1px solid none;
+        height: 200px;
+        width:230px;
+        margin-left:0px;
+        float: left;
+        text-align: center;
+        font-family:Bahnschrift ;
+    }
+    #eba{
+        border: 1px solid none;
+        font-size: 15px;
+        height: 100px;
+        color: aliceblue;
+        margin-top: 20px;
+    }
+    #ebb{
+        font-size: 20px;
+        color: aliceblue;
+        margin-top: 20px;
+    }
+    #ebd{
+        font-size: 20px;
+        color: aliceblue;
+        margin-top: 10px;
+    }
+    #ec{
+        border:1px solid none;
+        height: 70px;
+        float: left;
+        width:200px;
+    }
+    #ec{
+        text-align: center;
+        color: white;
+        font-size: 20px;
+        font-family:Bahnschrift ;
+    }
+    #eca{
+        margin-top:100px;
+    }
+    #z{
+        font-size: 20px;
+        margin-left :-10px;
+        margin-top: 10px;
+    }
+}
+@media screen and (min-width:1014px) and (max-width:1290px)
+{
+    .a{
+        border:1px solid none;
+        height:1500px;
+    }
+    #b{
+        border:1px solid  rgb(255, 95, 3);
+        height:220px;
+        width:1000px;
+        border-radius:20px;
+        text-align: center;
+        padding-top: 130px;
+        color:white;
+        font-size: 20px;
+        font-family: Bahnschrift;
+        background-color: rgb(255, 95, 3);
+    }
+    #c{
+        border:1px solid  rgb(9, 103, 245);
+        height:300px;
+        width:1000px;
+        border-radius:20px;
+        padding-top: 0px;
+        color:white;
+        margin-top: 20px;
+        font-size: 24px;
+        font-family: Bahnschrift;
+        background-color: rgb(9, 103, 245);
+    }
+    #c1{
+        border:1px solid none;
+        width:300px;
+        height:290px;
+        text-align: center;
+        float: left;
+    }
+    #ca{
+        margin-top: 100px;
+    }
+    #c2{
+        border:1px solid none;
+        width:650px;
+        font-size: 16px;
+        height:290px;
+        padding-top: 8px;
+        float: left;
+    }
+    #f{
+        border:1px solid none;
+        height:30px;
+        width:1000px;
+        font-size: 17px;
+        margin-top:5px;
+    }
+    #fa{
+        float: left;
+        margin-left: 600px;
+    }
+    #fb{
+        float: left;
+        margin-left: 20px;
+    }
+    #d{
+        border:1px solid none;
+        height:600px;
+        width: 1000px;
+    }
+    #da img{
+        border:1px solid red;
+        height: 140px;
+        width:230px;
+        border-radius: 10px;
+        margin-left: 10px;
+        margin-top: 9px;
+        float: left;
+    }
+    #db img{
+        border:1px solid red;
+        height: 140px;
+        width:230px;
+        margin-top: 9px;
+        border-radius: 12px;
+        margin-left:10px;
+        float: left;
+    }
+    #e{
+        border:1px solid rgb(9, 103, 245);
+        height:250px;
+        width:1000px;
+        background-color: rgb(9, 103, 245);
+        border-radius: 20px;
+    }
+    #ea{
+        border:1px solid none;
+        height: 200px;
+        width:300px;
+        float: left;
+        margin-left: 20px;
+    }
+    #eaa{
+        border: 1px solid rgb(9, 103, 245);
+        border-bottom: 1px solid white;
+        margin-top:10px;
+        margin-left:  10px;
+        color: aliceblue;
+        height: 19px;
+        width: 190px;
+        background-color: rgb(9, 103, 245);
+    }
+    #eac{
+        border: 1px solid rgb(9, 103, 245);
+        border-bottom: 1px solid white;
+        background-color: rgb(9, 103, 245);
+        color: aliceblue;
+        height: 30px;
+        width:190px;
+        margin-top:5px;
+        margin-left:10px;
+    }
+    #ead{
+        border: 1px solid rgb(9, 103, 245);
+        color: aliceblue;
+        text-align: right;
+        margin-top:5px;
+        margin-left:5px;
+        height: 20px;
+        width: 190px;
+        background-color: rgb(9, 103, 245);
+    }
+    #eb{
+        border:1px solid none;
+        height: 200px;
+        width:300px;
+        margin-left:0px;
+        float: left;
+        text-align: center;
+        font-family:Bahnschrift ;
+    }
+    #eba{
+        border: 1px solid none;
+        font-size: 15px;
+        height: 100px;
+        color: aliceblue;
+        margin-top: 20px;
+    }
+    #ebb{
+        font-size: 20px;
+        color: aliceblue;
+        margin-top: 20px;
+    }
+    #ebd{
+        font-size: 20px;
+        color: aliceblue;
+        margin-top: 10px;
+    }
+    #ec{
+        border:1px solid none;
+        height: 70px;
+        float: left;
+        width:300px;
+    }
+    #ec{
+        text-align: center;
+        color: white;
+        font-size: 20px;
+        font-family:Bahnschrift ;
+    }
+    #eca{
+        margin-top:100px;
+    }
+    #z{
+        font-size: 25px;
+        margin-left :-10px;
+        margin-top: 10px;
+    }
+}

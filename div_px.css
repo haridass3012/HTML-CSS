@@ -1,0 +1,40 @@
+               .maindiv{
+                        border: 2px solid red;
+                        height:1000px;
+                        background-color: gray;
+                }
+                #div1{
+                        border: 2px solid blue;
+                        height:400px;
+                        width:446px;
+                        float:left;
+                        background-color: yellow;
+                }
+                #div2{
+                        border: 2px solid green;
+                        height:400px;
+                        width:446px;
+                        float:left;
+                        background-color: red;
+                }
+@media screen and(min-width:365) and (max-width:424px){
+    .maindiv{
+        border: 2px solid red;
+        height:300px;
+        background-color: blue;
+    }
+    #div1{
+        border: 2px solid blue;
+        height:100px;
+        width:100px;
+        float:left;
+        background-color: blue;
+    }
+    #div2{
+        border: 2px solid green;
+        height:100px;
+        width:146px;
+        float:left;
+        background-color: blue;
+    }
+}
